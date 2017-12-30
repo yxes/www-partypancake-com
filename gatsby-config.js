@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Dimension by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Dimension by HTML5 UP"
+    title: "Party Pancake",
+    author: "Nicholas Messier & Stephen Wells",
+    description: "Pancakes need a place to party too..."
   },
   pathPrefix: '/',
   plugins: [
